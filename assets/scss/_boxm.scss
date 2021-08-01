@@ -1,0 +1,62 @@
+h2{
+    justify-content: center;
+    text-align: center;
+    margin: 40px;
+    border-radius: 40px;
+}
+
+.parrafoIndex{
+    text-align: center;
+}
+.card :hover{
+    transition: all 1s;
+    transform: translateY(-10px);
+}
+
+.navbar-nav :hover{
+    transition:all 2s;
+    transform: translateY(-7px);
+}
+
+.card{
+    text-align: center;
+}
+.encabezadoFoo{
+    text-align: start;
+}
+.list-group-item-action{
+    text-align: center;
+}
+.encabezadoPoleas{
+    text-align: center;
+    margin: 30px;
+}
+.logoFooPoleas{
+    text-align: start;
+    margin-top: 20px;
+}
+.parrafoPoleas{
+    text-align: center;
+}
+.tituloPoleas{
+    margin: 50px;
+}
+.logoFooCorreas{
+    color: yellow;
+    background-color: black;
+    margin-top: 20px;
+}
+.encabezadoCorreas{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.parrafoCorreas{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.tituloCorreas{
+    background-color: yellow;
+}
+.encabezadoFoo a{
+    text-decoration: none;
+}
