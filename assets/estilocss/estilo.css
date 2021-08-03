@@ -34,7 +34,7 @@
   background-color: rgba(255, 255, 0, 0.829); }
 
 .fondocolor {
-  background-color: white; }
+  background-color: #ffffff; }
 
 .navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
   color: yellow; }
@@ -53,6 +53,14 @@
 
 .tituloPoleas {
   background-color: rgba(255, 255, 0, 0.877); }
+
+.logoFooContacto {
+  color: yellow;
+  background-color: black;
+  font-size: 40px; }
+
+.encabezadoContacto {
+  background-color: yellow; }
 
 .encabezadoFoo--fsize {
   font-size: 40px; }
@@ -77,6 +85,9 @@
 
 .logoFooCorreas {
   font-size: 40px; }
+
+.form-control {
+  text-align: center; }
 
 h2 {
   justify-content: center;
@@ -136,6 +147,9 @@ h2 {
 
 .encabezadoFoo a {
   text-decoration: none; }
+
+.encabezadoContacto {
+  margin-bottom: 40px; }
 
 html {
   margin: 0px;
